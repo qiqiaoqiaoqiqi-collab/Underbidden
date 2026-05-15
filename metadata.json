@@ -1,0 +1,6 @@
+{
+  "name": "AgendaBuilder AI",
+  "description": "Transform any document into a structured meeting agenda with timeline views and stakeholder identification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
